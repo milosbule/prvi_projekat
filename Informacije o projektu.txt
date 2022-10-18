@@ -1,0 +1,22 @@
+HTML
+
+Sajt se sastoji od 4 stranice. Na svakoj stranici nalaze se linkovi za navigaciju od jedne stranice do druge.
+Za kreiranje sajta korisceni su fontovi - google fonts kao u font-awesome ikonice
+Svaka stranica sadrzi svoj CSS dokument
+Prva stranica index.html sadrzi scriptu koja se aktivira klikom na dugme (Kupite odmah) definisanu iz fajla main.js
+Linkovi (logo) definisani u footeru stranica (about, fruit, form) vode do stranica facebook, twitter, linkedin, instagram
+Link lokacije vodi do googlemaps
+Na vecini stranica korisceni su div-ovi koji su sluzili za lakse pozicioniranje sadrzaja (slika, tekst) koriscenjem metode flex
+Stranica form.html sadzri iframe koriscen za potrebe ovog sajta kao i input polja i textare
+
+CSS
+
+Na pocetku svakog CSS fajla definisao sam boje koje sam najcesce upotrebljavao tokom stilizovanja stranica
+Takodje podesavanja koja koriste pretrazivaci resetovao sam (margine, padding) i podesio kako ce mi se ponasati box modeli
+Zatim sam definisao font, i velicinu fonta u zavisnosti od tagova (h1-h6...)
+Fontovi su definisani sa relativnim jedinicama (REM) kako bi se bolje ponasalo kod razlicitih medija
+Zamisao svih stranica je bila da nema skrol-a (podrazumevano ne horizontalnog a ni vertikalnog ) na ekranu bilo kojih dimenzija
+Tako da sam media querie koristio najvise koristio u svrhu prilagodjanja prethodne stavke
+
+
+
