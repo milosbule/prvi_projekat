@@ -18,5 +18,5 @@ Fontovi su definisani sa relativnim jedinicama (REM) kako bi se bolje ponasalo k
 Zamisao svih stranica je bila da nema skrol-a (podrazumevano ne horizontalnog a ni vertikalnog ) na ekranu bilo kojih dimenzija
 Tako da sam media querie koristio najvise koristio u svrhu prilagodjanja prethodne stavke
 
-
+https://github.com/milosbule/prvi_projekat
 
